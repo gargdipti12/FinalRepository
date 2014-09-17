@@ -25,7 +25,7 @@ public class Main
         
         System.out.println("test10.......123");
         
-        System.out.println("test1022.......123");
+        System.out.println("test1022...");
         
         System.out.println("changes added via other developer");
         
